@@ -1,2 +1,2 @@
 msgid "Ubuntu Desktop"
-msgstr "ArjunOS"
+msgstr "This is for Wharton"
